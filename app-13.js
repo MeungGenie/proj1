@@ -1,7 +1,7 @@
 const express = require("express");
 const dbConnect = require("./config/dbConnect");
 
-const port = 3000;
+const port = 9029;
 
 const app = express();
 
